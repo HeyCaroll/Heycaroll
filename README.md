@@ -14,4 +14,4 @@
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 
-[![Linguagen usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyCaroll&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagen usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyCaroll&layout=compact)
