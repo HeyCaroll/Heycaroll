@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, Seja bem vinda(o)</h1>
+<h1 align="center">👋 Olá, Seja bem vinda(o)!</h1>
 <h3 align="center">gosto de café e gatos, mas de preferência separados.</h3>
 <p>- 🔭 Futuramente, desejo me tornar cientista de dados! </p>
 <p>- 👨‍💻 Minha linguagem favorita é Python </p>
