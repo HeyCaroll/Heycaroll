@@ -14,16 +14,6 @@
 
 
 
-<br><br>
 
-## ⚙️ &nbsp;Análise do GitHub
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Heycaroll&show_icons=true&theme=darcula" alt="carol's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heycaroll&layout=compact&theme=darcula" alt="carol's most languages"/>
-</p>
-
-
-<br><br>
 
 
