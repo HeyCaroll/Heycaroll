@@ -11,12 +11,19 @@
 
 <br><br>
 
-## 🛠 &nbsp;Linguagens mais ultilizadas
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+## &nbsp;📚Linguagens mais ultilizadas
+![Python](https://img.shields.io/badge/Python-%23333?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23333?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-%23333?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
+<br><br>
 
+## 📨Contato
+<p align="left" style="background:yellow"> 
+<a href= "https://www.instagram.com/nesquik_008/"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href= "mailto:caroliny.silv4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</p>
 
 
 
