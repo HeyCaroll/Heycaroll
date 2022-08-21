@@ -5,7 +5,7 @@
 
 - 👨‍💻 Minha Linguagem favorita é **Python**
 
-- ⚡ Conheci o mundo da programação em 2020, porém comecei a levar a sérios os meus estudos no final de 2021 ;)
+- ⚡ Conheci o mundo da programação em 2019, porém comecei a levar a sérios os meus estudos no final de 2021 ;)
 
 - 💡 Gosto de achar soluções para até os maiores problemas existentes e me considero muito criativa
 
