@@ -3,7 +3,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou a Carol
 </h1>
 
-- 👨‍💻 Me chamo **Carolily Silva**, tenho 16 anos.
+- 👨‍💻 Me chamo **Caroliny Silva**, tenho 16 anos.
 
 - ⚡ Conheci o mundo da programação em 2019, porém comecei a levar a sérios os meus estudos no final de 2021.
 
