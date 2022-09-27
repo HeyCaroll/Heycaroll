@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/HeyCaroll/656f47ab8ca15e1ac660cd16efda31ba/raw/82280dbfad8c04187d9d185aa5a4513f393da59b/GithubCard.svg"/>
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou a Carol
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, seja bem vindo(a)
 </h1>
 
 - 👨‍💻 Me chamo **Caroliny Silva**, tenho 16 anos.
