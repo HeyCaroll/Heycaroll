@@ -1,25 +1,49 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/HeyCaroll/656f47ab8ca15e1ac660cd16efda31ba/raw/82280dbfad8c04187d9d185aa5a4513f393da59b/GithubCard.svg"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e8227e&height=120&section=header"/>
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, seja bem vindo(a)
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e8227e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Caroliny+Silva;I'm+17+years+old;I+from+Brasil,+SP;:%29)](https://git.io/typing-svg)
 
-- 👨‍💻 Me chamo **Caroliny Silva**, tenho 16 anos.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HeyCaroll&show_icons=true&count_private=true&hide_border=true&title_color=e8227e&icon_color=e8227e&text_color=c9d1d9&bg_color=0d1117" alt="Caroliny Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heycaroll&layout=compact&hide_border=true&title_color=e8227e&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-- 💡 Gosto de achar soluções para até os maiores problemas existentes e me considero muito criativa.
+ ### A little more about me
 
-- 💬 Pergunte-me sobre **Python**, posso te ajudar!
+```javascript
+const Caroliny Silva = {
+    pronouns: "She" | "her",
+    age: 17,
+    code: [Arduino, Cpp, Java, Python],
+    askMeAbout: ["Python", "Arduino projects", "robotics competition"],
+    technologies:{
+        dataScience: ["Python", "IBM"],
+    },
+    challenge: "do my best every day",
+    funFact: "I am a member of frc8066"
+};
+```
+     
 
-- 🔭 Curiosidade: Faço parte do time de robótica [FRC#8066](https://linktr.ee/wolfarmyrobotics)
-<br><br>
+### Main skills:
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=green&labelColor=0D1117)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=blue&labelColor=0D1117)&nbsp; 
 
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-## ✉️ Contato 
-<p align="left" style="background:yellow"> 
-<a href= "https://www.instagram.com/nesquik_008/"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href= "mailto:caroliny.silv4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### Studying in this moment:
+![IBM](https://img.shields.io/badge/IBM-0D1117?style=for-the-badge&logo=ibm&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cpp&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-</p>
-
-
-
-
+### connect with me
+<a href=https://www.instagram.com/hey.caroll/>![Insta](https://img.shields.io/badge/-instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=purple&labelColor=0D1117)&nbsp;</a>
+<a href=https://www.hackerearth.com/@caroliny>![Hackerearth](https://img.shields.io/badge/-hackerearth-0D1117?style=for-the-badge&logo=hackerearth&labelColor=0D1117)&nbsp;</a>
+<a href=github.com/heycaroll>![Figma](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;</a>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e8227e&height=120&section=footer"/>
