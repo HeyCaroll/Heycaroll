@@ -16,7 +16,7 @@ const Caroliny Silva = {
     code: [Arduino, Cpp, Java, Python],
     askMeAbout: ["Python", "Arduino projects", "robotics competition"],
     technologies:{
-        dataScience: ["Python", "IBM"],
+        dataScience: ["Python"],
     },
     challenge: "do my best every day",
     funFact: "I am a member of frc8066"
@@ -37,7 +37,6 @@ const Caroliny Silva = {
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![IBM](https://img.shields.io/badge/IBM-0D1117?style=for-the-badge&logo=ibm&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cpp&labelColor=0D1117&textColor=0D1117)&nbsp;
 
