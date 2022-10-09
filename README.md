@@ -1,23 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e8227e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e8227e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Caroliny+Silva;I'm+17+years+old;I+from+Brasil,+SP;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e8227e&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Caroliny+Silva;I'm+17+years+old;I+from+Brazil,+SP;:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HeyCaroll&show_icons=true&count_private=true&hide_border=true&title_color=e8227e&icon_color=e8227e&text_color=c9d1d9&bg_color=0d1117" alt="Caroliny Silva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heycaroll&layout=compact&hide_border=true&title_color=e8227e&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
- ### A little more about me
-
+ ### A little more about me:
 ```javascript
 const Caroliny Silva = {
     pronouns: "She" | "her",
     age: 17,
-    code: [Arduino, Cpp, Java, Python],
+    code: [Cpp, Java, Python],
     askMeAbout: ["Python", "Arduino projects", "robotics competition"],
-    technologies:{
-        dataScience: ["Python"],
-    },
     challenge: "do my best every day",
     funFact: "I am a member of frc8066"
 };
@@ -43,7 +39,7 @@ const Caroliny Silva = {
 ![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=C%2B%2B&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=R&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### connect with me
+### connect with me:
 <a href=https://www.instagram.com/hey.caroll/>![Insta](https://img.shields.io/badge/-instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=purple&labelColor=0D1117)&nbsp;</a>
 <a href=https://www.hackerearth.com/@caroliny>![Hackerearth](https://img.shields.io/badge/-hackerearth-0D1117?style=for-the-badge&logo=hackerearth&labelColor=0D1117)&nbsp;</a>
 <a href=github.com/heycaroll>![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;</a>
