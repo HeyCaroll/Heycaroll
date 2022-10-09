@@ -46,6 +46,7 @@ const Caroliny Silva = {
 ### connect with me
 <a href=https://www.instagram.com/hey.caroll/>![Insta](https://img.shields.io/badge/-instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=purple&labelColor=0D1117)&nbsp;</a>
 <a href=https://www.hackerearth.com/@caroliny>![Hackerearth](https://img.shields.io/badge/-hackerearth-0D1117?style=for-the-badge&logo=hackerearth&labelColor=0D1117)&nbsp;</a>
-<a href=github.com/heycaroll>![Figma](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;</a>
+<a href=github.com/heycaroll>![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;</a>
+<a href=https://twitter.com/mesquik__>![Twitter](https://img.shields.io/badge/-twitter-0D1117?style=for-the-badge&logo=twitter&labelColor=0D1117)&nbsp;</a>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e8227e&height=120&section=footer"/>
