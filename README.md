@@ -7,19 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heycaroll&layout=compact&hide_border=true&title_color=e8227e&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
- ### A little more about me:
-```javascript
-const Caroliny Silva = {
-    pronouns: "She" | "her",
-    age: 17,
-    code: [Cpp, Java, Python],
-    askMeAbout: ["Python", "Arduino projects", "robotics competition"],
-    challenge: "do my best every day",
-    funFact: "I am a member of frc8066"
-};
-```
-     
-
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=green&labelColor=0D1117)&nbsp;
